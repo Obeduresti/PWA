@@ -30,7 +30,7 @@
     }
   };
   var injectedForecas = {
-    key: 'Houston',
+    key: 'houston',
     label: 'Houston, TX',
     currently: {
       time: 1453489481,
