@@ -30,8 +30,8 @@
     }
   };
   var injectedForecas = {
-    key: 'mcallen',
-    label: 'McAllen, TX',
+    key: 'Houston',
+    label: 'Houston, TX',
     currently: {
       time: 1453489481,
       summary: 'Clear',
